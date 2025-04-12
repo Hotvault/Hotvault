@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HotVault – Exclusive Adult Content</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0d0d0d;
+      color: #fff;
+      line-height: 1.6;
+    }
+    header, footer {
+      text-align: center;
+      padding: 40px 20px;
+      background-color: #1a1a1a;
+    }
+    .hero {
+      padding: 80px 20px;
+      text-align: center;
+      background: linear-gradient(to right, #990000, #cc0000);
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
+    .hero p {
+      font-size: 1.2rem;
+      margin-bottom: 30px;
+    }
+    .btn {
+      background-color: #ff3333;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      border-radius: 30px;
+      font-weight: bold;
+    }
+    section {
+      padding: 60px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    table, th, td {
+      border: 1px solid #444;
+    }
+    th, td {
+      padding: 15px;
+      text-align: center;
+    }
+    blockquote {
+      font-style: italic;
+      margin: 20px 0;
+      border-left: 4px solid #ff3333;
+      padding-left: 15px;
+    }
+    footer a {
+      color: #ff6666;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>HotVault</h1>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to HotVault — Your Exclusive Access to My Hottest Secrets</h1>
+    <p>Uncensored Videos. Exclusive Packs. Just Me and You.</p>
+    <a class="btn" href="#buy">Unlock Now</a>
+  </section>
+
+  <section>
+    <h2>About the Content</h2>
+    <p>No filters. No scripts. Just real pleasure. Everything here is 100% mine – personal, seductive, and made to make you want more. From spicy photo packs to steamy full-length videos, every piece of content is crafted with you in mind.</p>
+  </section>
+
+  <section>
+    <h2>What You Get</h2>
+    <ul>
+      <li>100+ Exclusive Packs</li>
+      <li>Full HD & 4K Videos</li>
+      <li>Immediate Download</li>
+      <li>Lifetime Access</li>
+      <li>Direct Support via Telegram</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>What They’re Saying</h2>
+    <blockquote>“She’s unreal. The videos are fire and totally worth it.” – M.G.</blockquote>
+    <blockquote>“I’ve bought a lot of content online, but this… this is on another level.” – A.L.</blockquote>
+    <blockquote>“Real, raw, and ridiculously sexy.” – J.T.</blockquote>
+  </section>
+
+  <section id="buy">
+    <h2>Get Access Now</h2>
+    <p>Choose Your Package and Unlock Everything Instantly</p>
+    <table>
+      <tr>
+        <th>Package</th>
+        <th>What’s Included</th>
+        <th>Price (via PayPal)</th>
+      </tr>
+      <tr>
+        <td>Starter Pack</td>
+        <td>20 Exclusive Photos + 2 Videos</td>
+        <td>$15 USD</td>
+      </tr>
+      <tr>
+        <td>Full Vault</td>
+        <td>All Packs + 10 Videos</td>
+        <td>$40 USD</td>
+      </tr>
+      <tr>
+        <td>Ultimate Access</td>
+        <td>Everything + Future Updates</td>
+        <td>$60 USD</td>
+      </tr>
+    </table>
+    <br>
+    <a class="btn" href="https://www.paypal.me/yourlink">Pay with PayPal</a>
+  </section>
+
+  <section>
+    <h2>Still Thinking?</h2>
+    <p>Don’t wait. I update often. The sooner you join, the more you get.</p>
+    <a class="btn" href="#buy">Unlock Me Now</a>
+  </section>
+
+  <footer>
+    <p>HotVault © 2025</p>
+    <a href="#">Terms of Use</a> |
+    <a href="#">Support</a> |
+    <a href="#">Instagram</a> |
+    <a href="#">Telegram</a>
+  </footer>
+</body>
+</html>
